@@ -1,1 +1,1 @@
-# SKreiv1
+pra inicia o Bot e necessário Abaixado, após bota seus dados número do bot no Confing, e no termux ou outro terminal use sh start.sh e escolha suas opçãos. 
